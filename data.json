@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Coke",
+        "price": 25.00,
+        "description": "Cold"
+    },
+    {
+        "id": 2,
+        "name": "lumpia",
+        "price": 10.00,
+        "description": "Goods"
+    },
+    {
+        "id": 3,
+        "name": "halo halo",
+        "price": 25.00,
+        "description": "Goods"
+    },
+    {
+        "id": 4,
+        "name": "Pandesal",
+        "price": 5.00,
+        "description": "All Goods"
+    }
+]
